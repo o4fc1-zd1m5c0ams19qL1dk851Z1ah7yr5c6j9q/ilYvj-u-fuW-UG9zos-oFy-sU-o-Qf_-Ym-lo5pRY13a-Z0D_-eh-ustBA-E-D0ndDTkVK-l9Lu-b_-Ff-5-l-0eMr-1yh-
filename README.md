@@ -1,3 +1,4 @@
+print("11111")
 print("ChoPro x HUB [1/4] wait script")
 wait("1")
 local HWID = {
